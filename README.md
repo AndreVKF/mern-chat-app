@@ -1,4 +1,4 @@
-# Chat Application
+# Chat Application 💬
 
 MERN fullstack chat application.
 
